@@ -10,4 +10,5 @@ This collection of ideas is perfect for anyone, from just getting into infosec t
 
 ### Lists
 
+- [All Projects](lists/all.md)
 - [Beginner](lists/beginner.md)
