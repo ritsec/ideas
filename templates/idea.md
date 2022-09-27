@@ -16,3 +16,7 @@ This is a small description about the project/idea which is just a high level ov
 ## [OPTIONAL] - Going Further
 
 - This complicates the project more
+
+## [OPTIONAL] - Resources
+
+- Resources on where to get started
