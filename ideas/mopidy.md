@@ -1,4 +1,4 @@
-# Idea Name
+# Mopidy Server
 
 |  Author  | Last Updated |       Time Estimate        |
 | :------: | :----------: | :------------------------: |

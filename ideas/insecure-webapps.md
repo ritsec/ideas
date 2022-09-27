@@ -1,4 +1,4 @@
-# Idea Name
+# Insecure WebApps
 
 |  Author  | Last Updated |       Time Estimate        |
 | :------: | :----------: | :------------------------: |

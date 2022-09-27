@@ -1,4 +1,4 @@
-# Idea Name
+# Terraform Linter
 
 |  Author  | Last Updated |       Time Estimate        |
 | :------: | :----------: | :------------------------: |
