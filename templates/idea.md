@@ -1,8 +1,8 @@
 # Idea Name
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| John Doe |  01/01/1999  | Short - 🟩🟩🟩🟩⬜️ - Long |
+|  Author  | Last Updated |          Difficulty            |
+| :------: | :----------: | :----------------------------: |
+| John Doe |  01/01/1999  | No Previous Knowledge - Expert |
 
 ## Description
 
