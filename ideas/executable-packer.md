@@ -1,8 +1,8 @@
 # Executable Packer
 
-|     Author     | Last Updated |        Time Estimate         |
-| :------------: | :----------: | :--------------------------: |
-| Michael Vaughan |  07/29/2022  | Short - 🟩🟩🟩⬜️⬜️ - Long |
+|     Author      | Last Updated | Difficulty  |
+| :-------------: | :----------: | :---------: |
+| Michael Vaughan |  07/29/2022  | Medium-Hard |
 
 ## Description
 

@@ -1,8 +1,8 @@
 # Git Good
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| Jason Howe |  09/27/2022  | Short - 🟩🟩🟩⬜️⬜️ - Long |
+|   Author   | Last Updated | Difficulty |
+| :--------: | :----------: | :--------: |
+| Jason Howe |  09/27/2022  |   Medium   |
 
 ## Description
 
@@ -27,3 +27,4 @@ Write a presentation about using GIT for project management
 ## Resources
 
 - [Git Guide](https://git-scm.com/book/en/v2)
+- [Has been done](https://www.youtube.com/watch?v=ftNqqm4-DVw)

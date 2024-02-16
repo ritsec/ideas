@@ -1,8 +1,8 @@
 # Talk about a Cool Project You Did
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| Jason Howe |  09/27/2022  | Short - 🟩🟩🟩⬜️⬜️ - Long |
+|   Author   | Last Updated |  Difficulty  |
+| :--------: | :----------: | :----------: |
+| Jason Howe |  09/27/2022  |  Medium-Hard |
 
 ## Description
 
@@ -17,3 +17,4 @@ Tool could be for redteam, for blue team, for anything!
 ## Going Further
 
 - [ ] Write a blog post
+- [RITSEC Blog](https://blog.ritsec.club)

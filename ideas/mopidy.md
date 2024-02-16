@@ -1,8 +1,8 @@
 # Mopidy Server
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| Jason Howe |  09/27/2022  | Short - 🟩🟩⬜️⬜️⬜️ - Long |
+|   Author   | Last Updated | Difficulty  |
+| :--------: | :----------: | :---------: |
+| Jason Howe |  09/27/2022  | Easy-Medium |
 
 ## Description
 
@@ -23,4 +23,3 @@ Deploy a Mopidy Server for Music in the Club Room, on the stack
 
 ## Research and Resources
 - [Mopidy website](https://mopidy.com)
-- 

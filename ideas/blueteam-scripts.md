@@ -1,8 +1,8 @@
 # Blueteam Scripts
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| Jason Howe |  09/27/2022  | Short - 🟩🟩⬜️⬜️⬜️ - Long |
+|   Author   | Last Updated |  Difficulty |
+| :--------: | :----------: | :---------: |
+| Jason Howe |  09/27/2022  | Medium-Easy |
 
 ## Description
 
@@ -15,3 +15,4 @@ Write blue team tools or IR Tools.
 ## Resources
 
 - IRIG
+- [BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)

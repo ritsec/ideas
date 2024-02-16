@@ -1,8 +1,8 @@
 # Terraform Linter
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| Jason Howe |  09/27/2022  | Short - 🟩🟩🟩🟩🟩 - Long |
+|   Author   | Last Updated | Difficulty |
+| :--------: | :----------: | :--------: |
+| Jason Howe |  09/27/2022  |  Advanced  |
 
 ## Description
 

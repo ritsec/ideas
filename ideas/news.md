@@ -1,8 +1,8 @@
 # News Segments
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| Jason Howe |  09/27/2022  | Short - 🟩🟩⬜️⬜️⬜️ - Long |
+|   Author   | Last Updated |  Difficulty |
+| :--------: | :----------: | :---------: |
+| Jason Howe |  09/27/2022  | Easy-Medium |
 
 ## Description
 
@@ -10,8 +10,6 @@ Dive into something that happened in the news recently and tell the club all abo
 - Election Hacking
 - InfoSec Culture
   
-Further a Conference Talk - Did you see something cool at a conference that you wanted to talk about?
-
 ## Goals
 
 - [ ] Find some new news!
@@ -19,9 +17,9 @@ Further a Conference Talk - Did you see something cool at a conference that you 
 
 ## Going Further
 - [ ] Follow an ongoing CVE/Hack/Developings news story
+- [ ] Follow something interesting from a conference or talk 
 
 
 ## Resources
-
 - Hacker Blogs
 - CVE Publications

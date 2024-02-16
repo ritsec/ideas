@@ -1,8 +1,8 @@
 # Portfolio Website
 
-|     Author     | Last Updated |        Time Estimate         |
-| :------------: | :----------: | :--------------------------: |
-| Bradley Harker |  07/26/2022  | Short - 🟩🟩⬜️⬜️⬜️ - Long |
+|     Author     | Last Updated | Difficulty  |
+| :------------: | :----------: | :---------: |
+| Bradley Harker |  07/26/2022  | Easy-Medium |
 
 ## Description
 

@@ -15,9 +15,9 @@ Copy templates/idea.md to ideas/\<your-idea\>.md, and add your name, current dat
 Your name helps students ask questions, the date helps with archiving, and the time estimate is relative to other projects - just give a best guess. If you want a frame of reference for it, assume the reader is a first or second year computing student.
 
 
-|  Author  | Last Updated |       Time Estimate        |
-| :------: | :----------: | :------------------------: |
-| John Doe |  01/01/1999  | Short - 🟩🟩🟩🟩⬜️ - Long |
+|  Author  | Last Updated |           Difficulty           |
+| :------: | :----------: | :----------------------------: |
+| John Doe |  01/01/1999  | No Previous Knowledge - Expert |
   
 
 Add a description of what this project does, and ideally some of the goals - what should the [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) be capable of?
